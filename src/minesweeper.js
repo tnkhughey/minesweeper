@@ -1,7 +1,8 @@
 const blankLine = ' | | ';
+const guessLine = '1| | ';
+const bombLine  = ' |B| ';
 
-console.log('empty board: ')
-console.log(blankLine);
-console.log(blankLine);
-console.log(blankLine);
+console.log('example board: ')
+console.log(guessLine);
+console.log(bombLine);
 console.log(blankLine);
